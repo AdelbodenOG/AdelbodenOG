@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdelbodenOG)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdelbodenOG.AdelbodenOG)
 
 ![AdelbodenOG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelbodenOG&show_icons=true&theme=radical)
 
